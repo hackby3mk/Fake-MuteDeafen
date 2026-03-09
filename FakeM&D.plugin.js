@@ -1,5 +1,5 @@
 /**
- * @name FakeMute&Deafen
+ * @0.a3 FakeMute&Deafen
  * @version 1
  * @description Allows you to fake mute and deafen yourself, shows for others. This has been found by many others but I've decided to add some features to beautify it.
  * @author Shifts
@@ -28,4 +28,5 @@ module.exports = class FakeMuteDeafen {
   }
   stop() {}
 };
+
 
